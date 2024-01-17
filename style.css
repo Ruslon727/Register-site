@@ -1,0 +1,128 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aqua;
+}
+.form{
+    margin-top: 100px;
+    background-color: white;
+    border-radius: 10px;
+    width: 800px;
+    height: 600px;
+    margin-left: 25%;
+    display: flex;
+    flex-direction: column;
+}
+.first{
+    margin-top: 50px;
+}
+.second{
+    margin-top: 30px;
+}
+.third{
+    margin-top: 30px;
+}
+.label1{
+    margin-left: 50px;
+    font-family: sans-serif;
+    font-size: large;
+}
+.label6{
+    margin-left: 50px;
+    font-family: sans-serif;
+    font-size: large;
+}
+.input1{
+    margin-left: 50px;
+    width: 300px;
+    height: 40px;
+    margin-top: 5px;
+}
+.input2{
+    width: 300px;
+    height: 40px;
+    margin-top: 5px;
+    margin-left: 50px;
+}
+.input1::placeholder{
+    font-size: 18px;
+}
+.input2::placeholder{
+    font-size: 18px;
+}
+.label2{
+    font-family: sans-serif;
+    font-size: large;
+    margin-left: 255px;
+}
+.label3{
+    font-family: sans-serif;
+    font-size: large;
+    margin-left: 270px;
+}
+.label4{
+    margin-left: 50px;
+    font-family: sans-serif;
+    font-size: large;
+}
+.text1{
+    padding-top: 50px;
+    font-family: sans-serif;
+    font-size: x-large;
+    margin-left: 50px;
+}
+.text2{
+    font-family: sans-serif;
+    font-size: x-large;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+.button{
+    font-size: large;
+    width: 750px;
+    height: 35px;
+    margin-left: 25px;
+    color: white;
+    background-color: rgb(50, 50, 255);
+    border: 1px solid rgb(50, 50, 255);
+    border-radius: 5px;  
+    margin-top: 30px;
+}
+.label5{
+    margin-left: 307px;
+    font-family: sans-serif;
+    font-size: large;
+}
+.label7{
+    margin-left: 272px;
+    font-family: sans-serif;
+    font-size: large;
+}
+.fourth{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.radio2{
+    margin-left: 130px;
+}
+.radio3{
+    margin-left: 100px;
+}
+.Label1{
+    font-family: sans-serif;
+    font-size: large;
+    margin-left: 7px;
+}
+.Label2{
+    font-family: sans-serif;
+    font-size: large;
+    margin-left: 7px;
+}
+.Label3{
+    font-family: sans-serif;
+    font-size: large;
+    margin-left: 7px;
+}
